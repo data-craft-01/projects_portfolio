@@ -52,7 +52,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
-| [Survival Analysis](https://github.com/tusharkumarsaxena/customer_analytics/tree/main/survival_analysis) | Python, Google Colab | Understanding factors leading to customer churn  |
+| [Survival Analysis](https://github.com/de-analytics-01/customer_analytics/tree/main/survival_analysis) | Python, Google Colab | Understanding factors leading to customer churn  |
 | xx | xx | xx |
 
 ***
