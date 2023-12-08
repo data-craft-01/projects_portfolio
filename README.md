@@ -44,7 +44,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | [User Journey](https://github.com/de-analytics-01/web_analytics/blob/main/2_user_journey.ipynb) | Python, Google Colab | Analyze path taken by users |
 | [User Segments](https://github.com/analytics-engineering-01/web_analytics/blob/main/3_user_segments.ipynb) | Python, Google Colab | Grouping users based on their naturally occurring behaviour |
 | [Conversion Funnels](https://github.com/analytics-engineering-01/web_analytics/blob/main/4_conversion_funnels.ipynb) | Python, Google Colab | Analyze how many users sequentially go through specific events (funnel stages) in their paths |
-| Cohorts | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
+| [Cohorts](https://github.com/analytics-engineering-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
 
 ***
