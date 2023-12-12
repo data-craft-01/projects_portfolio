@@ -6,7 +6,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Data Engineering]
 - [Data Modeling]
 - [SQL]
-- [Customer Analytics]
+- [App & Web Analytics]
 - [PowerBI]
 - [Other Sources]
 
@@ -19,32 +19,15 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 ***
 
-# Data Modeling
-
-| Project Details | Tools | Project Description | 
-|---|---|---|
-| xx | xx | Dxx |
-| xx | xx | xx |
-
-***
-
-# SQL
-
-| Project Details | Tools | Project Description | 
-|---|---|---|
-| xx | xx | Dxx |
-| xx | xx | xx |
-
-***
 # Web Analytics
 
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
-| [Event Journey](https://github.com/de-analytics-01/web_analytics/blob/main/1_customer_journey.ipynb) | Python, Google Colab | Analyze trajectory taken by users from one event to the another |
-| [User Journey](https://github.com/de-analytics-01/web_analytics/blob/main/2_user_journey.ipynb) | Python, Google Colab | Analyze path taken by users |
-| [User Segments](https://github.com/analytics-engineering-01/web_analytics/blob/main/3_user_segments.ipynb) | Python, Google Colab | Grouping users based on their naturally occurring behaviour |
-| [Conversion Funnels](https://github.com/analytics-engineering-01/web_analytics/blob/main/4_conversion_funnels.ipynb) | Python, Google Colab | Analyze how many users sequentially go through specific events (funnel stages) in their paths |
-| [Cohorts](https://github.com/analytics-engineering-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
+| [Event Journey](https://github.com/data-craft-01/web_analytics/blob/main/1_event_journey.ipynb) | Python, Google Colab | Analyze trajectory taken by users from one event to the another |
+| [User Journey](https://github.com/data-craft-01/web_analytics/blob/main/2_user_journey.ipynb) | Python, Google Colab | Analyze path taken by users |
+| [User Segments](https://github.com/data-craft-01/web_analytics/blob/main/3_user_segments.ipynb) | Python, Google Colab | Grouping users based on their naturally occurring behaviour |
+| [Conversion Funnels](https://github.com/data-craft-01/web_analytics/blob/main/4_conversion_funnels.ipynb) | Python, Google Colab | Analyze how many users sequentially go through specific events (funnel stages) in their paths |
+| [Cohorts](https://github.com/data-craft-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
 
 ***
@@ -52,7 +35,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
-| [Survival Analysis](https://github.com/de-analytics-01/customer_analytics/tree/main/survival_analysis) | Python, Google Colab | Understanding factors leading to customer churn  |
+| [Survival Analysis](https://github.com/data-craft-01/customer_analytics/tree/main/survival_analysis) | Python, Google Colab | Understanding factors leading to customer churn  |
 | xx | xx | xx |
 
 ***
