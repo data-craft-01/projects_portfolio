@@ -4,7 +4,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 ## 📚 Table of Contents
 - [Data Engineering]
-- [Data Modeling] (https://github.com/data-craft-01/data_modeling/tree/main)
+- [Data Modeling](https://github.com/data-craft-01/data_modeling/tree/main)
 - [SQL]
 - [App & Web Analytics]
 - [Visualizations & Insights]
