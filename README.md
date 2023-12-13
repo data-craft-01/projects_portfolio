@@ -7,8 +7,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Data Modeling]
 - [SQL]
 - [App & Web Analytics]
-- [PowerBI]
-- [Other Sources]
+- [Visualizations & Insights]
 
 # Data Engineering
 
@@ -36,6 +35,14 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
 | [Survival Analysis](https://github.com/data-craft-01/customer_analytics/tree/main/survival_analysis) | Python, Google Colab | Understanding factors leading to customer churn  |
+| xx | xx | xx |
+
+***
+# Visualizations & Insights
+
+| Project Details | Language & Tools | Project Description | 
+|---|---|---|
+| [Operations Analytics](https://github.com/data-craft-01/visualizations_insights/blob/main/operational_analytics/Service%20Accounts%20Agents%20Dashboard_V2.pbix) | Power BI | Power BI dashboard for agent level performance & trends, providing insights into efficiency by different agent profiles |
 | xx | xx | xx |
 
 ***
