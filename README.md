@@ -13,7 +13,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 | Project Details | Tools | Project Description |
 |---|---|---|
-|Create data pipeline by linking Salesforce API to Azure|Salesforce API, Azure (Azure Data Factory,Azure Data Lake Storage) Azure Monitor|Detailed procedure on creating data pipeline to source Salesforce Object to Azure ecosysytem for advanced analytics use-cases & preparing dashboards|
+| [Salesforce integration with Azure](https://github.com/data-craft-01/data_engineering/tree/main/salesforce_integration_azure)|Salesforce API, Azure (Azure Data Factory,Azure Data Lake Storage) Azure Monitor|Detailed procedure on creating data pipeline to source Salesforce Object to Azure ecosysytem for advanced analytics use-cases & preparing dashboards|
 |Design and implement an end-to-end data pipeline using Azure Synapse Analytics. | SQL, Azure Synapse Analytics, Spark notebooks, Synapse Link, Cosmos DB, PowerBI | The details of this projects includes the ingestion and transformation of data through Serverless SQL Pool and Spark Pool. Key steps involve the creation of dedicated SQL pools and Spark pools, loading data into dedicated SQL Pool, generating SQL scripts and Spark notebooks within Azure Synapse Analytics, enabling Synapse Link and Analytic Store in Cosmos DB, executing scripts and notebooks using Synapse Pipelines and Triggers, and finally, serving the processed data to Power BI from Serverless SQL Pool and Dedicated SQL Pool. |
 
 ***
