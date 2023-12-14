@@ -9,7 +9,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Customer Analytics](#customer-analytics)
 - [Marketing Analytics]
 - [App & Web Analytics](#app-and-web-analytics)
-- [Visualizations & Insights](#visualizations-and-insights)
+- [Visualizations and Insights](#visualizations-and-insights)
 
 ## Data Engineering
 
