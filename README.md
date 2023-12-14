@@ -6,6 +6,8 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Data Engineering](https://github.com/data-craft-01/data_engineering)
 - [Data Modeling](https://github.com/data-craft-01/data_modeling/tree/main)
 - [SQL]
+- [Customer Analytics](https://github.com/data-craft-01/customer_analytics)
+- [Marketing Analytics]
 - [App & Web Analytics](https://github.com/data-craft-01/web_analytics)
 - [Visualizations & Insights](https://github.com/data-craft-01/visualizations_insights)
 
