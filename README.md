@@ -3,7 +3,7 @@
 Welcome to my projects portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Engineering]
+- [Data Engineering](https://github.com/data-craft-01/data_engineering)
 - [Data Modeling](https://github.com/data-craft-01/data_modeling/tree/main)
 - [SQL]
 - [App & Web Analytics]
