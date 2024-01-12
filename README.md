@@ -12,6 +12,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [A/B Testing](#a/b-testing)
 - [Visualizations and Insights](#visualizations-and-insights)
 
+***
 ## Data Engineering
 
 | Project Details | Tools | Project Description |
@@ -34,9 +35,10 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | [Cohorts](https://github.com/data-craft-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
 ***
-## A/B Testing
+## A/B Testing  
+
 |---|---|---|
-| [A/B Testing for 2 webpages]() | Python, Google Colab |   |
+| [A/B Testing for 2 webpages]() | Python, Google Colab |  xx |
 | xx | xx | xx |
 
 ***
@@ -53,7 +55,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
 | [Marketing Budget Optimization](https://github.com/data-craft-01/marketing_analytics/tree/main/marketing_budget_optimization) | Python, Google Colab | Allocating budget to maximize ROMI  |
-| xx | xx | xx |
+| [Demigraphic Segmentation] | Python, Google Colab | xx |
 
 
 ***
