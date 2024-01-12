@@ -9,6 +9,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Customer Analytics](#customer-analytics)
 - [Marketing Analytics](#marketing-analytics)
 - [App & Web Analytics](#app-and-web-analytics)
+- [A/B testing](#a/b-testing)
 - [Visualizations and Insights](#visualizations-and-insights)
 
 ## Data Engineering
@@ -32,6 +33,11 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | [Conversion Funnels](https://github.com/data-craft-01/web_analytics/blob/main/4_conversion_funnels.ipynb) | Python, Google Colab | Analyze how many users sequentially go through specific events (funnel stages) in their paths |
 | [Cohorts](https://github.com/data-craft-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
+***
+## A/B Testing
+|---|---|---|
+| [A/B Testing for 2 webpages]() | Python, Google Colab |   |
+| xx | xx | xx |
 
 ***
 ## Customer Analytics
