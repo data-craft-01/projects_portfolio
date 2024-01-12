@@ -7,7 +7,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Data Modeling](https://github.com/data-craft-01/data_modeling/tree/main)
 - [SQL]
 - [Customer Analytics](#customer-analytics)
-- [Marketing Analytics] (#marketing-analytics)
+- [Marketing Analytics](#marketing-analytics)
 - [App & Web Analytics](#app-and-web-analytics)
 - [Visualizations and Insights](#visualizations-and-insights)
 
