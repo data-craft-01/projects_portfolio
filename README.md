@@ -55,7 +55,8 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
 | [Marketing Budget Optimization](https://github.com/data-craft-01/marketing_analytics/tree/main/marketing_budget_optimization) | Python, Google Colab | Allocating budget to maximize ROMI  |
-| [Demigraphic Segmentation] | Python, Google Colab | xx |
+| [Marketing Effectiveness](https://github.com/data-craft-01/marketing_analytics/blob/main/marketing_effectivenes/readme.md) |  | Deriving marketing effectiveness of campaigns, based on CLTV, CAC & Retention Rate |
+| [Demographic Segmentation] | Python, Google Colab | xx |
 
 
 ***
