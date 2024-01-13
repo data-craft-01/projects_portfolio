@@ -9,7 +9,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Customer Analytics](#customer-analytics)
 - [Marketing Analytics](#marketing-analytics)
 - [App & Web Analytics](#app-and-web-analytics)
-- [A/B Testing](#a/b-testing)
+- [A/B Testing](#ab-testing)
 - [Visualizations and Insights](#visualizations-and-insights)
 
 ***
@@ -35,10 +35,10 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | [Cohorts](https://github.com/data-craft-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
 ***
-## A/B Testing  
+## AB Testing  
 
 |---|---|---|
-| [A/B Testing for 2 webpages]() | Python, Google Colab |  xx |
+| [A/B Testing for 2 webpages]() | Python, Google Colab |  Determine the efficacy of a new web page design in driving conversions compared to the existing design |
 | xx | xx | xx |
 
 ***
