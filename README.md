@@ -35,8 +35,9 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | [Cohorts](https://github.com/data-craft-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
 ***
-## AB Testing(https://github.com/data-craft-01/ab_testing/blob/main/README.md)  
+## AB Testing  
 
+About(https://github.com/data-craft-01/ab_testing/blob/main/README.md)  
 |---|---|---|
 | [A/B Testing for 2 webpages]() | Python, Google Colab |  Determine the efficacy of a new web page design in driving conversions compared to the existing design |
 | xx | xx | xx |
