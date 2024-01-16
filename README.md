@@ -37,7 +37,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 ***
 ## AB Testing  
 
-About(https://github.com/data-craft-01/ab_testing/blob/main/README.md)  
+[About](https://github.com/data-craft-01/ab_testing/blob/main/README.md)  
 |---|---|---|
 | [A/B Testing for 2 webpages]() | Python, Google Colab |  Determine the efficacy of a new web page design in driving conversions compared to the existing design |
 | xx | xx | xx |
