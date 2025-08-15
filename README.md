@@ -5,6 +5,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
 - [Data Modeling](https://github.com/data-craft-01/data_modeling/tree/main)
+- [AI Adoption]
 - [SQL]
 - [Customer Analytics](#customer-analytics)
 - [Marketing Analytics](#marketing-analytics)
@@ -24,6 +25,9 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 ## Data Modeling
 
 ***
+## AI Adoption  
+
+***
 ## App and Web Analytics
 
 | Project Details | Language & Tools | Project Description | 
@@ -35,7 +39,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | [Cohorts](https://github.com/data-craft-01/web_analytics/blob/main/5_cohorts.ipynb) | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
 ***
-## AB Testing  
+## Experiments / AB Testing  
 
 [About](https://github.com/data-craft-01/ab_testing/blob/main/README.md)  
 |---|---|---|  
@@ -47,6 +51,10 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 | Project Details | Language & Tools | Project Description | 
 |---|---|---|
+|Customer Segmentation|---|---|
+|Retention|---|---|
+|Engagement|---|---|
+|CLTV|---|---|
 | [Survival Analysis](https://github.com/data-craft-01/customer_analytics/tree/main/survival_analysis) | Python, Google Colab | Understanding factors leading to customer churn  |
 | xx | xx | xx |
 
